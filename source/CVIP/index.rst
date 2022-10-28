@@ -1,4 +1,5 @@
 CVIP
 ++++++++++++++++++
 This is Computer Vision and Image Processing.
-Junsong Yuan
+
+This is made in a different branch.
