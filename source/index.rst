@@ -17,7 +17,7 @@ This is an admonition
 
 .. danger::
    This is a text to see something. This is meant to be an admonition. This is meant to grab the attention of the user.
-   
+
 
 Here is some code.
 
@@ -38,7 +38,20 @@ This is a `link <http://www.google.com/>`_
 .. toctree::
    :hidden:
    :maxdepth: 2
+   :caption: EssentialAI Blog:
+   
+   blog/index
+
+.. toctree::
+   :hidden:
+   :maxdepth: 2
    :caption: Fall2022:
    
    CVIP/index
 
+.. toctree:: 
+   :hidden:
+   :maxdepth: 2
+   :caption: About:
+   
+   about
