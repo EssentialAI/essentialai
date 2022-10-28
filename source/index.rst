@@ -17,8 +17,7 @@ This is an admonition
 
 .. danger::
    This is a text to see something. This is meant to be an admonition. This is meant to grab the attention of the user.
-
-.. image:: test.PNG
+   
 
 Here is some code.
 
@@ -36,13 +35,10 @@ Here is some code.
 
 This is a `link <http://www.google.com/>`_
 
-For more details visit :ref:`here <location_options>`.
-
 .. toctree::
    :hidden:
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Fall2022:
    
-   Options/justlogic
-   Options/justcode
+   CVIP/index
 
