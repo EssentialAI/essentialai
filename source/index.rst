@@ -18,7 +18,7 @@ This is an admonition
 .. danger::
    This is a text to see something. This is meant to be an admonition. This is meant to grab the attention of the user.
 
-.. image:: images/test.png
+.. image:: test.PNG
 
 Here is some code.
 
