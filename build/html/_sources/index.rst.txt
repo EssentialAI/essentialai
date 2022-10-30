@@ -12,33 +12,24 @@ The Essential AI blog
 -------------------------
 This section contains ``articles`` that dive deep into a specific topic of Machine Learning. Each article contains link to the corresponding GitHub code. The easiest way to access these notebooks is to use Alt Text option to open the code in Google Colab available in every article. The aim of these articles is to simply concepts in AI using mathematical intuition.
 
-This is an admonition
-+++++++++++++++++++++
-
-.. danger::
-   This is a text to see something. This is meant to be an admonition. This is meant to grab the attention of the user.
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   :caption: EssentialAI blog:
    
-
-Here is some code.
-
-.. code-block:: python
-
-   def some_function(inputs):
-      this = that
-
-.. csv-table:: Table name
-   :header: Column 1, Column 2, Column 3
-   :widths: 33 33 33
-
-   Value1, Value2, Value3
-   Value11, Value22, Value33
-
-This is a `link <http://www.google.com/>`_
+   blog/intro
 
 .. toctree::
    :hidden:
    :maxdepth: 2
    :caption: Fall2022:
    
-   CVIP/index
+   CVIP/cvip_index
+
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   :caption: About:
+   
+   about
 
